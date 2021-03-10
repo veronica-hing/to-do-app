@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-do-app/static/css/main.a0ec15c8.chunk.css",
+    "main.js": "/to-do-app/static/js/main.64654281.chunk.js",
+    "main.js.map": "/to-do-app/static/js/main.64654281.chunk.js.map",
+    "runtime-main.js": "/to-do-app/static/js/runtime-main.fcfadebf.js",
+    "runtime-main.js.map": "/to-do-app/static/js/runtime-main.fcfadebf.js.map",
+    "static/js/2.d93be359.chunk.js": "/to-do-app/static/js/2.d93be359.chunk.js",
+    "static/js/2.d93be359.chunk.js.map": "/to-do-app/static/js/2.d93be359.chunk.js.map",
+    "static/js/3.7a0e0314.chunk.js": "/to-do-app/static/js/3.7a0e0314.chunk.js",
+    "static/js/3.7a0e0314.chunk.js.map": "/to-do-app/static/js/3.7a0e0314.chunk.js.map",
+    "index.html": "/to-do-app/index.html",
+    "static/css/main.a0ec15c8.chunk.css.map": "/to-do-app/static/css/main.a0ec15c8.chunk.css.map",
+    "static/js/2.d93be359.chunk.js.LICENSE.txt": "/to-do-app/static/js/2.d93be359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfadebf.js",
+    "static/js/2.d93be359.chunk.js",
+    "static/css/main.a0ec15c8.chunk.css",
+    "static/js/main.64654281.chunk.js"
+  ]
+}
